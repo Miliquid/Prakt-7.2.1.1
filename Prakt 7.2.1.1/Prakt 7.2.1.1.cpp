@@ -3,7 +3,7 @@
 #include <cmath>
 #include <clocale>
 using namespace std;
-
+//dratutio
 class Shape {
 protected:
 		 double x, y, z;
