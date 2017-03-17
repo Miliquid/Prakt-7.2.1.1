@@ -77,3 +77,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.vcxproj
+*.tlog
+*.suo
+.vs/Prakt 7.2.1.1/v15/Browse.VC.db
+*.ilk
+Debug/Prakt 7.2.1.1.pdb
+*.sln
+Prakt 7.2.1.1/Debug/Prakt 7.2.1.1.log
